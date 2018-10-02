@@ -3,7 +3,7 @@ App = {
   contracts: {},
   account: 0x0,
   loading: false,
-
+  
   init: function() {
     return App.initWeb3();
   },
